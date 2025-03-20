@@ -1,6 +1,6 @@
 import { Switch } from "@/components/ui/switch";
 import { GiHamburgerMenu } from "react-icons/gi";
-import ResponsiveNavBar from "./ResponsiveNavBar";
+import ResponsiveNavBar from "./ResponsiveNavbar";
 import { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
 
